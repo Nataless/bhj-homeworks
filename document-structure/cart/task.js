@@ -40,4 +40,4 @@ for (let i = 0; i < productAdd.length; i++) {
           </div>`);
     }
   })
-}
+}  
